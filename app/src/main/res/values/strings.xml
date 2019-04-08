@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diego Castro Freijo - Tarea 5</string>
+
+    <string name="listo">Estoy listo para empezar a trabajar</string>
+    <string name="iniciar_tarea">Iniciar tarea</string>
+    <string name="durmiento">Durmiendo...</string>
+</resources>
